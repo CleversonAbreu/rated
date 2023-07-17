@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33061,
+            "driver": "MariaDB",
+            "name": "db",
+            "username": "appuser",
+            "database": "laravel"
+        }
+    ]
+}
